@@ -1,0 +1,39 @@
+.body{ 
+    background-color: lightpink; 
+
+ }
+
+
+h1{
+    text-align: center;
+    font-size: 15;
+}
+     
+div{
+    text-align:  center;
+
+}
+
+.shadow-text{
+  text-shadow: gray 1px 1px
+    
+}
+ 
+#large-paragraph {
+     font-size: 25px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+ol.center{
+    text-align: center
+}
+
+.custom-body {
+    background-color: lightblue;
+}
